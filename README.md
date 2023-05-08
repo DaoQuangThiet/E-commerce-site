@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin [https://gitlab.com/nguyendao92/nextcommerce.git](https://github.com/DaoQuangThiet/E-commerce-site)
+git remote add origin https://github.com/DaoQuangThiet/E-commerce-site
 git branch -M main
 git push -uf origin main
 ```
